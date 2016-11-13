@@ -17,9 +17,7 @@ import org.apache.log4j.Logger;
 import pojo.loanpojo;
 import classes.loanDO;
 
-/**
- * Servlet implementation class ApplyLoan
- */
+
 public class ApplyLoan extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
